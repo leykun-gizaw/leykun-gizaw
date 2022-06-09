@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, You have reached Leykun's</h1>
 <h3 align="center">From an Advanced :hut: :satellite: HUT.</h3>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Backend Development** at **alxafrica.com**
 
 - 💬 Ask me about **C**
 
