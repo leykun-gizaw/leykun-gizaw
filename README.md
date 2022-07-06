@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, You have reached Leykun's</h1>
 <h3 align="center">From an Advanced :hut: :satellite: HUT.</h3>
 
-- 🌱 I’m currently learning **Backend Development** at <a href="https://www.alxafrica.com" target="_blank">**ALX Africa**</a>
+- 🌱 I’m currently learning **PHP**
+
+- Former alumni of <a href="https://www.alxafrica.com" target="_blank">**ALX Africa**</a>
 
 - 💬 Ask me about **C**
 
-- 📫 How to reach me **leykun_gizaw@yahoo.com**
+- 📫 How to reach me **bakxy1914@gmail.com**
 
 - ⚡ Fun fact **I actually think C is fun!**
 
