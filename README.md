@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C**
 
-- 📫 How to reach me **bakxy1914@gmail.com**
+- 📫 How to reach me **leykungizaw@gmail.com**
 
 - ⚡ Fun fact **I actually think C is fun!**
 
