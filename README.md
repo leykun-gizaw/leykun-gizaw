@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, You have reached Leykun's</h1>
 <h3 align="center">From an Advanced :hut: :satellite: HUT.</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **JAVA**
 
 - Former alumni of <a href="https://www.alxafrica.com" target="_blank">**ALX Africa**</a>
 
